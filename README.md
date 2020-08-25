@@ -1,13 +1,13 @@
 # non-linearity-LCA
 
-###Contributors
+### Contributors
 
 - [Massimo Pizzol (AAU)](mailto:massimo@plan.aau.dk)  
 - [Annika Anderson Erjavec (AAU)](mailto:annikaae@plan.aau.dk)
 - [Romain Sacchi (PSI)](mailto:romain.sacchi@psi.ch)
 - [Susanne Köhler (AAU)](susanne@plan.aau.dk)
 
-###Folder structure
+### Folder structure
 
 - _ei-simulation_ 
 
