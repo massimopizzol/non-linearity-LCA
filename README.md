@@ -9,6 +9,10 @@
 
 ### Folder structure
 
+- _Bitcoin_Mining_
+
+Code to calculate carbon footprint of upscaling Bitcoin mining using a baseline scenario, a mining location-sensitive scenario, a mining equipment-sensitive scenario, and both a location- and equipment-sensitive scenario.
+
 - _ei-simulation_ 
 
 Code to estimate quantitatively the effect of assuming activities in a product system scale up linearly when in fact they don’t using computer simulation applied to an entire database (ecoinvent)
