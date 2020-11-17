@@ -1,5 +1,11 @@
 # non-linearity-LCA
 
+## Description
+
+This is the code used in the analysis presented in:
+
+_Pizzol M, Sacchi R, Köhler S, Erjavec AE. Nonlinearity in the life cycle assessment of scalable and emerging technologies. Frontiers in Sustainability_
+
 ### Contributors
 
 - [Massimo Pizzol (AAU)](mailto:massimo@plan.aau.dk)  
